@@ -5,4 +5,4 @@ GerCo (German Collocations) dataset that contains annotations of collocations an
 
 GerCoAt (German Collocations with Attributes) dataset contains annotations of attributes, semantic classes of nouns, lexunit IDs of adjectives and nouns in GermaNet, and context sentences
 
-HeiPLAS+ is the HeiPLAS dataset contains annotations with the attributes from the GerCoAt dataset as well as the status of the phrases (collocations and free phrases)
+HeiPLAS+ is the HeiPLAS dataset (Hartung, 2015) the contains annotations with the attributes from the GerCoAt dataset as well as the status of the phrases (collocations and free phrases)
