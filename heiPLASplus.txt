@@ -1,4 +1,4 @@
-attribute_original	adjective	noun	GerCoAT	status
+attribute_original	adjective	noun	GerCoAt	status
 AGE	little	boy	age	collocation
 ACCURACY	accurate	accounting	precision	free
 ACCURACY	accurate	measurement	precision	free
